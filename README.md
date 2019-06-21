@@ -8,7 +8,11 @@ Path:
 
 My homeword file is Airline_done.ipynb.
 
-I rely on instructions from the "A" file. Please help me edit my homework file.
+-----------
 
-Request files from "A" I can't fully understand. Please give me a hand.
+Note:
+
+I rely on instructions from the "Airline-REF.ipynb" file. Please help me edit my homework file.
+
+The request from "Airline Arrivals Project.doc" file I can't fully understand. Please give me a hand.
 
